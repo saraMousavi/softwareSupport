@@ -1,2 +1,2 @@
 # softwareSupport
-this i sunder the web software for support customer of the software with sending and recevieng ticket and order them
+this is an under the web software for supporting customers of the software with sending and recevieng tickets and order them
